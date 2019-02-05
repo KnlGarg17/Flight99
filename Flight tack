@@ -4,4 +4,5 @@ cout<<"Flight details for tracking the flight schedules";
 cout<<"Flight name";
 cout<<"Departure";
 indian jet
+spice jet
 }
